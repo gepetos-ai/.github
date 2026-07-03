@@ -177,10 +177,8 @@ These standards ensure consistency across all projects developed within Gepetos 
 Beyond commercial software development, Gepetos AI actively participates in applied research involving:
 
 - Artificial Intelligence
-- Biomedical Engineering
 - Computational Modeling
 - Machine Learning
-- Biosignal Processing
 - Scientific Computing
 
 ---
@@ -193,19 +191,31 @@ Our goal is to build platforms that combine modern software engineering with art
 
 ---
 
+---
+
 # Contact
 
-🌐 https://www.gepetos.ai
+<p align="left">
+  <a href="https://www.gepetos.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Website-gepetos.ai-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
 
-📧 support@gepetos.ai
+  <a href="mailto:support@gepetos.ai">
+    <img src="https://img.shields.io/badge/Email-support@gepetos.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 
-LinkedIn
+  <a href="https://www.linkedin.com/company/gepetos/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gepetos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-https://www.linkedin.com/company/gepetos/
+  <a href="https://www.facebook.com/profile.php?id=61557299063142" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Gepetos-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
 
-Facebook
-
-https://www.facebook.com/profile.php?id=61557299063142
+  <a href="https://www.instagram.com/TU_USUARIO_DE_INSTAGRAM/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Gepetos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ---
 
