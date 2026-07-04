@@ -4,28 +4,14 @@
 
 ### Engineering intelligent platforms for communication, automation, and artificial intelligence.
 
-<img src="https://www.gepetos.ai/logo.png" width="180" alt="Gepetos AI Logo"/>
+<br/>
 
+<img src="https://www.gepetos.ai/logo.png" width="160" alt="Gepetos AI Logo"/>
+
+<br/>
 <br/>
 
 **Cloud Native • Artificial Intelligence • Automation • Communication Technologies**
-
-<br/>
-
-<p align="center">
-  <a href="https://www.gepetos.ai" target="_blank">
-    <img src="https://img.shields.io/badge/Website-gepetos.ai-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-  </a>
-  <a href="mailto:support@gepetos.ai">
-    <img src="https://img.shields.io/badge/Email-support@gepetos.ai-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/company/gepetos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gepetos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61557299063142" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Gepetos-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-</p>
 
 </div>
 
@@ -35,15 +21,21 @@
 
 **Gepetos AI** is a technology company focused on designing and developing cloud-native software platforms powered by artificial intelligence.
 
-We build reliable, scalable, and secure solutions that help organizations simplify complex operations through automation, intelligent communication, and modern software engineering.
+We build reliable, scalable, and secure solutions that help organizations simplify complex business operations through automation, intelligent communication, and modern software engineering.
 
-Rather than developing isolated applications, we design complete digital ecosystems capable of integrating voice, messaging, APIs, workflow automation, CRM operations, and AI agents into a single operational platform.
+Rather than developing isolated applications, we design complete digital ecosystems capable of integrating voice, messaging, APIs, workflow automation, CRM operations, scheduling systems, and AI agents into a single operational platform.
+
+Our work combines software engineering, artificial intelligence, automation, and communication technologies to create practical platforms that can operate in real business environments.
 
 ---
 
 ## What We Build
 
-Our engineering work is focused on building intelligent platforms that combine artificial intelligence, communication technologies, cloud infrastructure, and business automation.
+Our engineering work is focused on intelligent platforms that connect artificial intelligence, cloud infrastructure, business automation, and communication technologies.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 ### Artificial Intelligence
 
@@ -55,7 +47,10 @@ We develop AI-powered systems designed to assist, automate, and enhance operatio
 - Prompt Engineering
 - Knowledge Management
 - Intelligent Automation
-- AI-assisted workflows
+- AI-assisted Workflows
+
+    </td>
+    <td width="50%" valign="top">
 
 ### Communication Platforms
 
@@ -69,6 +64,11 @@ We design communication systems capable of handling real-time interactions acros
 - Omnichannel Communication
 - Customer Interaction Automation
 
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
 ### Cloud Platforms
 
 Our platforms are designed using modern cloud-native principles to support scalability, reliability, and maintainability.
@@ -81,6 +81,9 @@ Our platforms are designed using modern cloud-native principles to support scala
 - Containerized Deployments
 - Scalable Backend Systems
 
+    </td>
+    <td width="50%" valign="top">
+
 ### Business Automation
 
 We build automation tools that help businesses reduce repetitive work, improve consistency, and operate more efficiently.
@@ -91,16 +94,29 @@ We build automation tools that help businesses reduce repetitive work, improve c
 - Customer Engagement
 - Operational Pipelines
 - Process Automation
+- AI-driven Operations
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Current Product
 
+<div align="center">
+
 ### CallGen
+
+**An intelligent communication platform for AI-powered business operations.**
+
+</div>
 
 **CallGen** is an intelligent communication platform designed to automate voice, messaging, scheduling, CRM operations, and business workflows through artificial intelligence.
 
-The platform combines:
+The platform combines AI voice assistants, real-time communication, workflow automation, CRM logic, and cloud-native infrastructure to help organizations operate more efficiently.
+
+### Core Capabilities
 
 - AI Voice Assistants
 - Automated Calling Workflows
@@ -109,20 +125,21 @@ The platform combines:
 - Real-Time Voice Processing
 - Background Workers
 - AI-powered Decision Making
-- Cloud-native Infrastructure
 - Event-driven Automation
+- Cloud-native Infrastructure
+- Omnichannel Communication Workflows
 
-CallGen is built to support organizations that need reliable, scalable, and intelligent communication systems.
+CallGen is built for organizations that need reliable, scalable, and intelligent communication systems capable of integrating with real operational processes.
 
 ---
 
 ## Engineering Principles
 
-Our engineering culture is guided by principles that prioritize long-term reliability, security, and scalability.
+Our engineering culture is guided by principles that prioritize long-term reliability, security, scalability, and maintainability.
 
 ### Security by Design
 
-Security is considered from the first architectural decision. Authentication, authorization, data protection, auditability, and access control are treated as core platform requirements.
+Security is considered from the first architectural decision. Authentication, authorization, data protection, auditability, access control, and environment separation are treated as core platform requirements.
 
 ### Cloud Native
 
@@ -138,31 +155,46 @@ Complex systems should expose clear, maintainable, and predictable interfaces. G
 
 ### Scalability
 
-Every architectural decision should support future growth in users, data, workloads, integrations, and infrastructure requirements.
+Every architectural decision should support future growth in users, data, workloads, integrations, infrastructure, and business requirements.
 
 ### Maintainability
 
-Readable code, modular services, clear documentation, and standardized governance are treated as long-term engineering investments.
+Readable code, modular services, clear documentation, standardized governance, and consistent development practices are treated as long-term engineering investments.
 
 ---
 
 ## Technology Stack
 
-Our current technology ecosystem includes:
+Our current technology ecosystem includes backend frameworks, frontend technologies, cloud services, AI platforms, communication providers, and DevOps tools.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 ### Backend & APIs
 
 - Python
 - FastAPI
 - REST APIs
-- Background Workers
 - WebSockets
+- Background Workers
+- Asynchronous Processing
+
+    </td>
+    <td width="50%" valign="top">
 
 ### Frontend
 
 - TypeScript
 - React
 - Modern Web Interfaces
+- Component-based Architecture
+- Responsive User Experiences
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### Data & Infrastructure
 
@@ -174,25 +206,50 @@ Our current technology ecosystem includes:
 - Artifact Registry
 - Cloud Tasks
 - Pub/Sub
-- Vertex AI
+
+    </td>
+    <td width="50%" valign="top">
 
 ### Artificial Intelligence & Communication
 
 - OpenAI APIs
+- Vertex AI
 - Large Language Models
 - Retrieval-Augmented Generation
 - AI Agents
 - Twilio
 - Real-Time Audio Processing
 
-### DevOps & Governance
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### DevOps
 
 - GitHub
 - GitHub Actions
 - Continuous Integration
 - Continuous Deployment
-- Repository Governance
+- Environment-based Deployments
+- Artifact Management
+
+    </td>
+    <td width="50%" valign="top">
+
+### Governance
+
+- Branch Strategy
+- Pull Requests
+- Code Reviews
+- Repository Ownership
+- Team-based Permissions
 - Security Reviews
+- Technical Documentation
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -213,6 +270,8 @@ These standards include:
 - Technical documentation
 - Environment separation
 - Production readiness practices
+- Release discipline
+- Infrastructure awareness
 
 These practices help us maintain a professional engineering workflow across all projects developed within Gepetos AI.
 
@@ -228,8 +287,9 @@ Beyond commercial software development, Gepetos AI actively participates in appl
 - Scientific Computing
 - Intelligent Systems
 - Applied Automation
+- Human-centered AI Systems
 
-We believe that strong engineering and applied research should work together to create practical, scalable, and trustworthy technology.
+We believe strong engineering and applied research should work together to create practical, scalable, and trustworthy technology.
 
 ---
 
@@ -239,6 +299,45 @@ We believe intelligent software should not only automate tasks, but also enhance
 
 Our vision is to build the next generation of intelligent software platforms: systems that are reliable, scalable, secure, and capable of helping organizations operate with greater clarity, speed, and efficiency.
 
+We aim to create technology that connects artificial intelligence with real-world operations, transforming complex processes into simpler, smarter, and more manageable systems.
+
+---
+
+## Connect with us
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://www.gepetos.ai" target="_blank">
+        <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="30" alt="Website"/><br/>
+        <sub><strong>Website</strong></sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="mailto:support@gepetos.ai">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Email"/><br/>
+        <sub><strong>Email</strong></sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.linkedin.com/company/gepetos/" target="_blank">
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn"/><br/>
+        <sub><strong>LinkedIn</strong></sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.facebook.com/profile.php?id=61557299063142" target="_blank">
+        <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" alt="Facebook"/><br/>
+        <sub><strong>Facebook</strong></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 <div align="center">
@@ -246,15 +345,6 @@ Our vision is to build the next generation of intelligent software platforms: sy
 ### Building the next generation of intelligent software platforms.
 
 <br/>
-
-<p align="center">
-  <a href="https://www.gepetos.ai" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-gepetos.ai-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
-  </a>
-  <a href="mailto:support@gepetos.ai">
-    <img src="https://img.shields.io/badge/Contact-support@gepetos.ai-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
 © Gepetos AI
 
