@@ -323,7 +323,7 @@ We aim to create technology that connects artificial intelligence with real-worl
     </td>
     <td align="center" width="150">
       <a href="https://www.linkedin.com/company/gepetos/" target="_blank">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn"/><br/>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="30" alt="LinkedIn"/><br/>
         <sub><strong>LinkedIn</strong></sub>
       </a>
     </td>
